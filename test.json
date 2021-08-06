@@ -1,0 +1,40 @@
+
+//creation of user
+{
+    "email":"amdin@gmail.com",
+    "password": "admin"
+}
+
+//update user passwor
+{
+    "name" : "Sadmin" ,
+    "email":"Sadminemail@gmail.com",
+    "password": "testingSA"
+}
+{
+    "customerName" : "Bharath M", 
+    "customerEmail": "bharathmca68@gmail.com", 
+    "productsDetail": [
+        {
+            "name":"Iphone",
+            "price":40000
+        },{
+            "name":"realme",
+            "price":20000
+        },
+    ] 
+}
+
+{
+    "customerName" : "Bharath", 
+    "customerEmail": "bharathmca68@gmail.com", 
+    "productsDetail": [
+        {
+            "name":"redmi",
+            "price":40000
+        },{
+            "name":"realme",
+            "price":20000
+        }
+    ] 
+}
